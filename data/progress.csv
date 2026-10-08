@@ -1,0 +1,22 @@
+student_id,unit,activity,completion,date
+101,Unit 1,Python Basics,90.0,2026-10-01
+101,Unit 2,OOP,75.0,2026-10-03
+101,Unit 3,NumPy,65.0,2026-10-05
+101,Unit 4,Pandas,55.0,2026-10-07
+102,Unit 1,Python Basics,95.0,2026-10-01
+102,Unit 2,OOP,90.0,2026-10-03
+102,Unit 3,NumPy,85.0,2026-10-05
+102,Unit 4,Pandas,80.0,2026-10-07
+103,Unit 1,Python Basics,60.0,2026-10-01
+103,Unit 2,OOP,45.0,2026-10-03
+103,Unit 3,NumPy,35.0,2026-10-05
+103,Unit 4,Pandas,30.0,2026-10-07
+104,Unit 1,Python Basics,80.0,2026-10-01
+104,Unit 2,OOP,82.0,2026-10-03
+104,Unit 3,NumPy,84.0,2026-10-05
+104,Unit 4,Pandas,86.0,2026-10-07
+105,Unit 1,Python Basics,70.0,2026-10-01
+105,Unit 2,OOP,50.0,2026-10-03
+105,Unit 3,NumPy,40.0,2026-10-05
+105,Unit 4,Pandas,35.0,2026-10-07
+390,Unit 3,aa,60.0,2026-10-08
